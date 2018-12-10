@@ -1,3 +1,4 @@
+
 package com.vital.example;
 
 import java.util.List;
@@ -8,6 +9,9 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement(name = "batch")
 public class BatchXml {
+	/** 
+		Name and id
+	*/
 	private String name;
 	private String id;
 
