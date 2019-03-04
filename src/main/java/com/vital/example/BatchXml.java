@@ -1,4 +1,5 @@
-
+/** Message from 2nd folder
+**/
 package com.vital.example;
 
 import java.util.List;
